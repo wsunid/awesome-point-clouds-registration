@@ -17,7 +17,11 @@ __`oth.`__: other, including outlier rejection
 :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 --- 
-  
+
+## - 2016
+- [[IJRR](https://hal.archives-ouvertes.fr/hal-01143454/document)] Challenging data sets for point cloud registration algorithms. [[code](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)] [`dat.`] :star:
+
+
 ## 2016
 ## 2017
 - [[CVPR](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [`lf.`] :fire: :star:
