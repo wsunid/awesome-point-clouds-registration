@@ -8,8 +8,8 @@ A curated list of papers about point cloud registration inspired from [awesome p
 __`lf.`__: local features for registration &emsp; | &emsp;
 __`est.`__: direct estimation &emsp; | &emsp;
 __`dat.`__: datasets &emsp; | &emsp; 
-__`opt.`__: optimization &emsp; | &emsp; 
 
+__`opt.`__: optimization &emsp; | &emsp; 
 __`oth.`__: other, including outlier rejection
 
 <h3> Statistics <h3> 
