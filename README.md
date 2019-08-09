@@ -23,3 +23,4 @@ __`oth.`__: other, including optimization, outlier rejection
 ## 2019
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.pdf)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[code](https://github.com/hmgoforth/PointNetLK)] [`est.`] :fire:
 
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_DeepMapping_Unsupervised_Map_Estimation_From_Multiple_Point_Clouds_CVPR_2019_paper.pdf)] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds. [[code](https://github.com/ai4ce/DeepMapping)] [`est.`] :fire:
