@@ -1,5 +1,5 @@
 # awesome-point-cloud-registration
-A curated list of papers about point cloud registration inspired from [awesome point cloud analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+A curated list of papers about point cloud registration inspired by [awesome point cloud analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 
 
 
