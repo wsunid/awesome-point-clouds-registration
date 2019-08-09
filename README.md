@@ -5,12 +5,14 @@ A curated list of papers about point cloud registration inspired from [awesome p
 
 <h3> Keywords </h3>
 
-__`lf.`__: local features for registration
-__`est.`__: estimation of pose
-__`dat.`__: datasets on registration
+__`lf.`__: local features for registration &emsp; | &emsp;
+__`est.`__: estimation of pose &emsp; | &emsp;
+__`dat.`__: datasets on registration &emsp; | &emsp; 
+
 __`oth.`__: other, including optimization, outlier rejection
 
 <h3> Statistics <h3> 
+ 
 :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 --- 
@@ -18,3 +20,4 @@ __`oth.`__: other, including optimization, outlier rejection
 ## 2016
 ## 2017
 ## 2018
+## 2019
