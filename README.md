@@ -25,6 +25,8 @@ __`oth.`__: other, including outlier rejection
 - [[CVPR](https://zpascal.net/cvpr2017/Elbaz_3D_Point_Cloud_CVPR_2017_paper.pdf)] 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [[code](https://github.com/gilbaz/LORAX)] [`est.`]
 
 ## 2018
+- [[ECCV](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)] 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration [[code](https://github.com/yewzijian/3DFeatNet)] [`lf.`]
+
 ## 2019
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.pdf)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[code](https://github.com/hmgoforth/PointNetLK)] [`est.`] :fire:
 
