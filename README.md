@@ -37,6 +37,8 @@ __`oth.`__: other, including outlier rejection
 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_PPFNet_Global_Context_CVPR_2018_paper.pdf)] PPFNet: Global Context Aware Local Features for Robust 3D Point Matching [`lf.`]
 
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Georgakis_End-to-End_Learning_of_CVPR_2018_paper.pdf)] End-to-end learning of keypoint detector and descriptor for pose invariant 3D matching [`lf.`]
+
 ## 2019
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.pdf)] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet. [[code](https://github.com/hmgoforth/PointNetLK)] [`est.`] :fire:
 
