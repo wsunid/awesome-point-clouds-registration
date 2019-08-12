@@ -24,7 +24,7 @@ __`oth.`__: other, including outlier rejection
 
 ## 2016
 ## 2017
-- [[CVPR](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [`lf.`] :fire: :star:
+- [[CVPR](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [`lf.` `dat.`] :fire: :star:
 
 - [[CVPR](https://zpascal.net/cvpr2017/Elbaz_3D_Point_Cloud_CVPR_2017_paper.pdf)] 3D Point Cloud Registration for Localization using a Deep Neural Network Auto-Encoder. [[code](https://github.com/gilbaz/LORAX)] [`est.`]
 
