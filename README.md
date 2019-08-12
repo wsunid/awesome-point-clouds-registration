@@ -40,6 +40,8 @@ __`oth.`__: other, including outlier rejection
 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gojcic_The_Perfect_Match_3D_Point_Cloud_Matching_With_Smoothed_Densities_CVPR_2019_paper.pdf)] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities [[code](https://github.com/zgojcic/3DSmoothNet)] [`lf.`]
 
+- [[ICCV](https://songshiyu01.github.io/publication/iccv2019_registration/)] DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration [`est.`]
+
 
 
 
