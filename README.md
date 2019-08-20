@@ -53,6 +53,8 @@ __`oth.`__: other, including outlier rejection
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf)] GFrames: Gradient-Based Local Reference Frame
 for 3D Shape Matching [`oth.`]
 
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_FilterReg_Robust_and_Efficient_Probabilistic_Point-Set_Registration_Using_Gaussian_Filter_CVPR_2019_paper.pdf)] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization [[code](https://bitbucket.org/gaowei19951004/poser/src/master/)]  [`opt.` `oth.`]
+
 - [[ICCV](https://songshiyu01.github.io/publication/iccv2019_registration/)] DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration [`est.` `lf.`]
 
 - [[ICCV](https://arxiv.org/pdf/1905.03304.pdf)] Deep Closest Point: Learning Representations for Point Cloud Registration [[code](https://github.com/WangYueFt/dcp)] [`est.`]
