@@ -53,7 +53,7 @@ __`oth.`__: other, including outlier rejection
 
 - [[ICCV](https://songshiyu01.github.io/publication/iccv2019_registration/)] DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration [`est.` `lf.`]
 
-
+- [[ICCV](https://arxiv.org/pdf/1905.03304.pdf)] Deep Closest Point: Learning Representations for Point Cloud Registration [[code](https://github.com/WangYueFt/dcp)] [`est.` `lf.`]
 
 
 
