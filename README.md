@@ -50,6 +50,8 @@ __`oth.`__: other, including outlier rejection
 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration [`lf.` `est.`]
 
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf)] GFrames: Gradient-Based Local Reference Frame
+for 3D Shape Matching [`oth.`]
 
 - [[ICCV](https://songshiyu01.github.io/publication/iccv2019_registration/)] DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration [`est.` `lf.`]
 
