@@ -48,6 +48,8 @@ __`oth.`__: other, including outlier rejection
 
 - [[CVPR](https://songshiyu01.github.io/pdf/L3Net_W.Lu_Y.Zhou_S.Song_CVPR2019.pdf)] L3 -Net: Towards Learning based LiDAR Localization for Autonomous Driving [`lf.` `est.`]
 
+- [[CVPR](SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences)] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences [[code](https://github.com/intellhave/SDRSAC)] [ `est.` `opt.`]
+
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration [`lf.` `est.`]
 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf)] GFrames: Gradient-Based Local Reference Frame
