@@ -61,7 +61,10 @@ for 3D Shape Matching [`oth.`]
 
 - [[ICCV](https://arxiv.org/pdf/1905.03304.pdf)] Deep Closest Point: Learning Representations for Point Cloud Registration [[code](https://github.com/WangYueFt/dcp)] [`est.`]
 
+- [[NeurIPS](https://github.com/weiweisun2018/awesome-point-clouds-registration)] PRNet: Self-Supervised Learning for Partial-to-Partial Registration [`est.`]
+
 - [[ARXIV](https://arxiv.org/pdf/1904.01701.pdf)] 3DRegNet: A Deep Neural Network for 3D Point Registration [`est.`]
+
 
 
 
