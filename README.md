@@ -60,12 +60,11 @@ for 3D Shape Matching [`oth.`]
 
 - [[ICCV](https://songshiyu01.github.io/publication/iccv2019_registration/)] DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration [`est.` `lf.`]
 
-- [[ICCV](https://arxiv.org/pdf/1905.03304.pdf)] Deep Closest Point: Learning Representations for Point Cloud Registration [[code](https://github.com/WangYueFt/dcp)] [`est.`]
+- [[ICCV](https://arxiv.org/abs/1904.00229)] Deep Closest Point: Learning Representations for Point Cloud Registration [[code](https://github.com/WangYueFt/dcp)] [`est.`]
+
+- [[ICCV](https://arxiv.org/pdf/1905.03304.pdf)] USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. [[code](https://github.com/lijx10/USIP)] [`lf.`]
 
 - [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793857)] Robust low-overlap 3-D point cloud registration for outlier rejection [`est.` `opt.` `oth.`]
-
-
-
 
 - [[NeurIPS](https://github.com/weiweisun2018/awesome-point-clouds-registration)] PRNet: Self-Supervised Learning for Partial-to-Partial Registration [`est.`]
 
