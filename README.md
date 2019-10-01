@@ -20,6 +20,9 @@ __`oth.`__: other, including outlier rejection
 --- 
 
 ## - 2016
+
+- [[CGF](https://dl.acm.org/citation.cfm?id=2600305)] Sparse Iterative Closest Point. [[code](https://github.com/OpenGP/sparseicp)] [`est.` `opt.`] :fire: :star: 
+
 - [[IJRR](https://hal.archives-ouvertes.fr/hal-01143454/document)] Challenging data sets for point cloud registration algorithms. [[code](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)] [`dat.`] :star:
 
 
