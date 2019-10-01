@@ -69,6 +69,8 @@ for 3D Shape Matching [`oth.`]
 
 - [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793857)] Robust low-overlap 3-D point cloud registration for outlier rejection [`est.` `opt.` `oth.`]
 
+- [[ICRA](https://ieeexplore.ieee.org/abstract/document/8793516)] CELLO-3D: Estimating the Covariance of ICP in the Real World [`est.` `opt.` `oth.`]
+
 - [[NeurIPS](https://github.com/weiweisun2018/awesome-point-clouds-registration)] PRNet: Self-Supervised Learning for Partial-to-Partial Registration [`est.`]
 
 - [[TOG](https://gfx.cs.princeton.edu/pubs/Rusinkiewicz_2019_ASO/symm_icp.pdf)] A Symmetric Objective Function for ICP [`est.` `opt.`]
