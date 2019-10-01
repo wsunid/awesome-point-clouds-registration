@@ -71,6 +71,8 @@ for 3D Shape Matching [`oth.`]
 
 - [[NeurIPS](https://github.com/weiweisun2018/awesome-point-clouds-registration)] PRNet: Self-Supervised Learning for Partial-to-Partial Registration [`est.`]
 
+- [[TOG](https://gfx.cs.princeton.edu/pubs/Rusinkiewicz_2019_ASO/symm_icp.pdf)] A Symmetric Objective Function for ICP [`est.` `opt.`]
+
 - [[ARXIV](https://arxiv.org/pdf/1904.01701.pdf)] 3DRegNet: A Deep Neural Network for 3D Point Registration [`est.`]
 
 
