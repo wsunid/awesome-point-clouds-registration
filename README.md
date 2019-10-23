@@ -70,6 +70,8 @@ for 3D Shape Matching [`oth.`]
 
 - [[ICCV](https://arxiv.org/pdf/1905.03304.pdf)] USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. [[code](https://github.com/lijx10/USIP)] [`lf.`]
 
+- [[ICCV](https://arxiv.org/pdf/1909.06887.pdf)] Learning an Effective Equivariant 3D Descriptor Without Supervision. [`lf.`]
+
 - [[ICRA](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793857)] Robust low-overlap 3-D point cloud registration for outlier rejection [`est.` `opt.` `oth.`]
 
 - [[ICRA](https://ieeexplore.ieee.org/abstract/document/8793516)] CELLO-3D: Estimating the Covariance of ICP in the Real World [`est.` `opt.` `oth.`]
