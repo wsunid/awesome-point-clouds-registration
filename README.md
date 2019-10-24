@@ -82,6 +82,7 @@ for 3D Shape Matching [`oth.`]
 
 - [[ARXIV](https://arxiv.org/pdf/1904.01701.pdf)] 3DRegNet: A Deep Neural Network for 3D Point Registration [`est.`]
 
+- [[ARXIV](https://arxiv.org/pdf/1910.10328.pdf)] Iterative Matching Point [`est.`]
 
 
 
