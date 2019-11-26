@@ -86,6 +86,6 @@ for 3D Shape Matching [`oth.`]
 
 - [[ARXIV](https://arxiv.org/pdf/1910.10328.pdf)] Iterative Matching Point [`est.`]
 
-
+- [[ARXIV](https://arxiv.org/pdf/1908.07906.pdf)] PCRNet: Point Cloud Registration Network using PointNet Encoding [[code](https://github.com/vinits5/pcrnet)] [`est.`]
 
 
