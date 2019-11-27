@@ -59,7 +59,7 @@ __`oth.`__: other, including outlier rejection
 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)] 3D Local Features for Direct Pairwise Registration [`lf.` `est.`]
 
-- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf] 3D Point Capsule Networks [[code](https://github.com/yongheng1991/3D-point-capsule-networks)] [`lf.`] :fire:
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] 3D Point Capsule Networks [[code](https://github.com/yongheng1991/3D-point-capsule-networks)] [`lf.`] :fire:
 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf)] GFrames: Gradient-Based Local Reference Frame
 for 3D Shape Matching [`oth.`]
