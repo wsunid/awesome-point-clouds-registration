@@ -90,4 +90,8 @@ for 3D Shape Matching [`oth.`]
 
 - [[ARXIV](https://arxiv.org/pdf/1908.07906.pdf)] PCRNet: Point Cloud Registration Network using PointNet Encoding [[code](https://github.com/vinits5/pcrnet)] [`est.`]
 
+## 2020
+- [[CVPR](https://arxiv.org/abs/2003.05855)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds [[code](https://github.com/craigleili/3DLocalMultiViewDesc)] [`lf.`]
+
+
 
