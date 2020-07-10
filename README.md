@@ -95,6 +95,12 @@ for 3D Shape Matching [`oth.`]
 ## 2020
 - [[CVPR](https://arxiv.org/abs/2003.05855)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds [[code](https://github.com/craigleili/3DLocalMultiViewDesc)] [`lf.`]
 - [[CVPR](https://arxiv.org/abs/2003.03164)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features [[code](https://github.com/XuyangBai/D3Feat)] [`lf.`]
-
-
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.pdf
+)] 3DRegNet: A Deep Neural Network for 3D Point Registration [[code](https://github.com/goncalo120/3DRegNet)] [`corr.`]
+- [[CVPR](https://arxiv.org/abs/2005.08144)] High-Dimensional Convolutional Networks for Geometric Pattern Recognition [[code](https://github.com/chrischoy/HighDimConvNets)] [`corr.`]
+- [[CVPR](https://arxiv.org/abs/2004.11540)] Deep Global Registration [[code](https://github.com/chrischoy/DeepGlobalRegistration)] [`lf.` `corr.`]
+- [[CVPR](https://arxiv.org/abs/2001.05119)] Learning multiview 3D point cloud registration [[code](https://github.com/zgojcic/3D_multiview_reg)] [`corr.` `oth.`]
+- [[CVPR](http://arxiv.org/abs/2003.13479)] RPM-Net: Robust Point Matching using Learned Features [[code](https://github.com/yewzijian/RPMNet)] [`est.`]
+- [[CVPR](https://arxiv.org/abs/2005.01014)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences [[code](https://github.com/XiaoshuiHuang/fmr)] [`opt.` `est.` `oth.`]
+- [[CVPR](https://arxiv.org/abs/2003.13326)] PointGMM: a Neural GMM Network for Point Clouds [`est.` `oth.`]
 
