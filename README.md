@@ -92,6 +92,7 @@ for 3D Shape Matching [`oth.`]
 
 ## 2020
 - [[CVPR](https://arxiv.org/abs/2003.05855)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds [[code](https://github.com/craigleili/3DLocalMultiViewDesc)] [`lf.`]
+- [[CVPR](https://arxiv.org/abs/2003.03164)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features [[code](https://github.com/XuyangBai/D3Feat)] [`lf.`]
 
 
 
