@@ -7,11 +7,12 @@ You will be very welcome to make PR and contribute!! :smile:
 <h3> Keywords </h3>
 
 __`lf.`__: local features for registration &emsp; | &emsp;
+__`corr.`__: register with putative correspondences &emsp; | &emsp;
 __`est.`__: direct estimation &emsp; | &emsp;
 __`dat.`__: datasets &emsp; | &emsp; 
 
 __`opt.`__: optimization &emsp; | &emsp; 
-__`oth.`__: other, including outlier rejection
+__`oth.`__: other
 
 <h3> Statistics <h3> 
  
