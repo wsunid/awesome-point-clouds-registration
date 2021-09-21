@@ -21,6 +21,9 @@ __`oth.`__: other
 
 --- 
 
+## - 2014
+- [[CGF](https://dl.acm.org/doi/10.1111/cgf.12446)] SUPER 4PCS: Fast Global Pointcloud Registration via Smart Indexing. [[code](https://github.com/STORM-IRIT/OpenGR)] [`est.` `oth.`] :fire: :star:
+
 ## - 2016
 
 - [[CGF](https://dl.acm.org/citation.cfm?id=2600305)] Sparse Iterative Closest Point. [[code](https://github.com/OpenGP/sparseicp)] [`est.` `opt.`] :fire: :star: 
@@ -28,7 +31,6 @@ __`oth.`__: other
 - [[IJRR](https://hal.archives-ouvertes.fr/hal-01143454/document)] Challenging data sets for point cloud registration algorithms. [[code](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration)] [`dat.`] :star:
 
 
-## 2016
 ## 2017
 - [[CVPR](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions. [[code](https://github.com/andyzeng/3dmatch-toolbox)] [`lf.` `dat.`] :fire: :star:
 
