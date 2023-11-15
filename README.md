@@ -107,3 +107,6 @@ for 3D Shape Matching [`oth.`]
 - [[CVPR](https://arxiv.org/abs/2003.13326)] PointGMM: a Neural GMM Network for Point Clouds [`est.` `oth.`]
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500715.pdf)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration  [[code](https://github.com/wentaoyuan/deepgmr)] [`est.` `corr.`]
 - [[ARXIV](https://arxiv.org/abs/2001.07715)] TEASER: Fast and Certifiable Point Cloud Registration. [[code](https://github.com/MIT-SPARK/TEASER-plusplus)] [`corr.` `opt.`]
+
+## 2023
+- [[Measurement,Elsever](https://www.sciencedirect.com/science/article/abs/pii/S0263224123007637)] Benchmark of multi-view Terrestrial Laser Scanning Point Cloud data registration algorithms [[code](https://github.com/MapsHD/HDMapping)] [`est.` `opt.` `oth.`]
